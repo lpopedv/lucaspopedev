@@ -1,7 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3cae4c&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Hello World!&color=3cae4c&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=3CAE4C&center=true&vCenter=true&lines=Hello+World!+I'm+Lucas!;FullStack+Developer;Cybersecurity+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=3CAE4C&width=1100&center=true&vCenter=true&lines=I'm+Lucas!;FullStack+Developer;Cybersecurity+enthusiast)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaspopedev&show_icons=true&count_private=true&hide_border=true&title_color=3cae4c&icon_color=3cae4c&text_color=3cae4c&bg_color=0d1117" alt="Lucas Fernando github stats" /> 
