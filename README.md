@@ -8,10 +8,6 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=lucaspopedev&bg_color=0d1117&line=3cae4c&color=3cae4c&point=f7523f&hide_border=true&area=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucaspopedev&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
